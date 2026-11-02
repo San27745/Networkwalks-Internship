@@ -70,7 +70,7 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-"desktop.png"
+![Lab 1 Screenshot](desktop.png)
 
 
 Additional target machines can be added to the same virtual network in future projects.
