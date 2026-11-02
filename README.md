@@ -70,7 +70,7 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![]("C:\Users\sanik\Downloads\desktop.png")
+![]("desktop.png")
 
 
 Additional target machines can be added to the same virtual network in future projects.
